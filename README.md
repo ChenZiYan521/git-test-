@@ -1,0 +1,15 @@
+# Git 第一天练习
+
+这是我学习 Git 的第一个仓库。
+
+## 今天学会的命令
+
+- git init
+- git status
+- git add
+- git commit
+- git log\
+
+## 备注
+
+继续加油。
