@@ -1,0 +1,8 @@
+第一个独立练习，已使用指令：git init -b main; git status; rm -rf .git; mkdir test;
+后续使用的指令：
+git commit -m 
+git log --oneline
+使用指令：
+git diff
+git add
+git add .
